@@ -1,0 +1,15 @@
+# Laravel
+/vendor
+/node_modules
+.env
+.env.*
+
+# Storage
+/storage/*.key
+
+# Docker（MySQLデータ）
+/docker/mysql/data/
+
+# IDE
+/.idea
+/.vscode
